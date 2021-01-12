@@ -1,6 +1,7 @@
 package org.example;
 
 import java.io.PrintStream;
+import java.util.HashMap;
 
 /**
  * Hello world!
@@ -33,5 +34,6 @@ public class App
 
     private static PrintStream getOut() {
         return System.out;
+        HashMap asd = (HashMap) new Object();
     }
 }
