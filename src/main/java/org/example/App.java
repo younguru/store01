@@ -34,6 +34,5 @@ public class App
 
     private static PrintStream getOut() {
         return System.out;
-        HashMap asd = (HashMap) new Object();
     }
 }
